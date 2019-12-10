@@ -4,7 +4,7 @@ This laptop stand was designed to be cut out of **4mm thick plate material**. Th
 
 **No glue is required**  to assemble the pieces. They all slot together, and the shelf snaps to the sides.
 
-##Assembly instructions
+## Assembly instructions
 
 ![instruction](instruction.png)
 
